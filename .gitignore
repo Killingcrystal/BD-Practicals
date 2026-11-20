@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+
+# Virtual Environments
+flink_env/
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Scala / SBT
+target/
+project/target/
+project/project/
+.bsp/
+.metals/
+.bloop/
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
